@@ -1,0 +1,84 @@
+@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RalewayRegular/RalewayRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/RalewayRegular/RalewayRegular.woff") format("woff"), url("../fonts/RalewayRegular/RalewayRegular.ttf") format("truetype"); }
+/*@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/RalewayBold/RalewayBold.eot?#iefix") format("embedded-opentype"), url("../fonts/RalewayBold/RalewayBold.woff") format("woff"), url("../fonts/RalewayBold/RalewayBold.ttf") format("truetype"); }
+@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/RalewayLight/RalewayLight.eot?#iefix") format("embedded-opentype"), url("../fonts/RalewayLight/RalewayLight.woff") format("woff"), url("../fonts/RalewayLight/RalewayLight.ttf") format("truetype"); }
+@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/RalewaySemiBold/RalewaySemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/RalewaySemiBold/RalewaySemiBold.woff") format("woff"), url("../fonts/RalewaySemiBold/RalewaySemiBold.ttf") format("truetype"); }*/
+@font-face {
+  font-family: "OpenSans";
+  src: url("../fonts/OpenSans/OPENSANS-LIGHT.TTF?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OPENSANS-LIGHT.TTF") format("truetype"); }
+@font-face {
+  font-family: "OPENSANS-SEMIBOLD";
+  src: url("../fonts/OpenSans/OPENSANS-SEMIBOLD.TTF?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OPENSANS-SEMIBOLD.TTF") format("truetype"); }
+@font-face {
+  font-family: "OPENSANS-REGULAR";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/OpenSans/OPENSANS-REGULAR.TTF?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OPENSANS-REGULAR.TTF") format("truetype"); }
+@font-face {
+  font-family: "BrutalTypeBold";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/BrutalType/BrutalTypeBold.ttf?#iefix") format("embedded-opentype"), url("../fonts/BrutalType/BrutalTypeBold.ttf") format("truetype"); }
+@font-face {
+  font-family: "BrutalType";  
+  src: url("../fonts/BrutalType/BrutalType.otf") format("woff"); }
+@font-face {
+  font-family: "BRUTALTYPE-BLACK";  
+  src: url("../fonts/BrutalType/BRUTALTYPE-BLACK.OTF") format("woff"); }
+@font-face {
+  font-family: "BRUTALTYPE-BLACK-1";  
+  src: url("../fonts/BrutalType/BRUTALTYPE-BLACK-1.OTF") format("woff"); }
+@font-face {
+  font-family: "BRUTALTYPE-BOLD";  
+  src: url("../fonts/BrutalType/BRUTALTYPE-BOLD.OTF") format("woff"); }
+@font-face {
+  font-family: "BRUTALTYPE-BOLD-1";  
+  src: url("../fonts/BrutalType/BRUTALTYPE-BOLD-1.OTF") format("woff"); }
+@font-face {
+  font-family: "BRUTALTYPE-EXTRABOLD";  
+  src: url("../fonts/BrutalType/BRUTALTYPE-EXTRABOLD.OTF") format("woff"); }
+@font-face {
+  font-family: "BRUTALTYPE-EXTRABOLD-1";  
+  src: url("../fonts/BrutalType/BRUTALTYPE-EXTRABOLD-1.OTF") format("woff"); }
+@font-face {
+  font-family: "BRUTALTYPE-EXTRALIGHT";  
+  src: url("../fonts/BrutalType/BRUTALTYPE-EXTRALIGHT.OTF") format("woff"); }
+@font-face {
+  font-family: "BRUTALTYPE-EXTRALIGHT-1";  
+  src: url("../fonts/BrutalType/BRUTALTYPE-EXTRALIGHT-1.OTF") format("woff"); }
+@font-face {
+  font-family: "BRUTALTYPE-LIGHT";  
+  src: url("../fonts/BrutalType/BRUTALTYPE-LIGHT.OTF") format("woff"); }
+@font-face {
+  font-family: "BRUTALTYPE-LIGHT-1";  
+  src: url("../fonts/BrutalType/BRUTALTYPE-LIGHT-1.OTF") format("woff"); }
+@font-face {
+  font-family: "BRUTAL TYPE MEDIUM";  
+  src: url("../fonts/BrutalType/BRUTAL TYPE MEDIUM.TTF") format("truetype"); }
+@font-face {
+  font-family: "BRUTAL TYPE MEDIUM-1";  
+  src: url("../fonts/BrutalType/BRUTAL TYPE MEDIUM-1.TTF") format("truetype"); }
+@font-face {
+  font-family: "BRUTAL TYPE REGULAR";  
+  src: url("../fonts/BrutalType/BRUTAL TYPE REGULAR.TTF") format("truetype"); }
+@font-face {
+  font-family: "BRUTALTYPE-THIN";  
+  src: url("../fonts/BrutalType/BRUTALTYPE-THIN.TTF") format("truetype"); }
+@font-face {
+  font-family: "BRUTALTYPE-THIN-1";  
+  src: url("../fonts/BrutalType/BRUTALTYPE-THIN-1.TTF") format("truetype"); }
